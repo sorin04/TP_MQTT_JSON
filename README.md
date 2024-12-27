@@ -1,1 +1,1 @@
-
+Ce projet décode et traite les messages uplink de The Things Network (TTN) à partir de données JSON, en fournissant des informations détaillées telles que la température, l'état de la batterie et les paramètres LoRa. Les résultats obtenus incluent des identifiants d'application et de passerelle, des métadonnées réseau, ainsi qu'une interprétation des données utiles pour surveiller et analyser les dispositifs IoT connectés.
